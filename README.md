@@ -1,3 +1,7 @@
+المتدرب:
+Ali Muaili Alhelali
+علي معيلي الهلالي
+
 # AI Research Agent — Project Starter
 
 One self-contained notebook: **researcher → analyst → writer**. You build
